@@ -1,4 +1,4 @@
-"## Table of Contents
+## Table of Contents
 - [Problem](#problem)
 - [solution](#solution)
 - [competition](#competition)
@@ -191,4 +191,3 @@ Ways this mobile app can eliminate the polypharmacy effect: will have the capabi
 [nexa](https://thememakker.com/templates/nexa/html/index2.html)
 
 Last page viewed https://themeforest.net/category/site-templates/admin-templates?page=4
-",
