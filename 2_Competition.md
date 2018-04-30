@@ -1,3 +1,3 @@
-## Competition
+# Competition
 
-## Competitive Advantages
+# Competitive Advantages
